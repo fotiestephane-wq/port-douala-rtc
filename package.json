@@ -1,0 +1,1 @@
+{"name": "port-douala-rtc", "version": "1.0.0", "description": "A project for Douala RTC.", "main": "index.js", "scripts": { "dev": "node server.js", "build": "webpack --mode production", "test": "jest" }, "author": "fotiestephane-wq", "license": "MIT"}
